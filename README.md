@@ -28,5 +28,5 @@
   CREDITS
   
   Loom.com for the video facilities!
-
+  link to video: https://www.loom.com/share/74a18b1278254fb18e42d05edf10c275
 
