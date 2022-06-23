@@ -13,9 +13,7 @@ Keeping Up With The Folks is an app for users who are responsible for the health
 This app will allow the family/caregiver to have access to their elderly relative's medical information.
 ***
 ## Contributors
-Loba the Pom
-Lilo the Calico
-Jazz the Maine Coon
+marietheyee
 ***
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
